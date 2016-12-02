@@ -1,4 +1,4 @@
-# "Vis mon vieux" équipe "les cogitus" 11/11/2016 à Vieux (14950 calvados)
+# "Vis mon vieux" équipe "les cogitus" 11/11/2016 à Vieux (14930 calvados)
 Moments sonores (ambiance et dialogues créés en concertation avec les scientifiques) de la ville antique revécus à travers les périgrinations de l'un des trois personnages disponibles choisi par le visiteur.
 
 ## Principe:
